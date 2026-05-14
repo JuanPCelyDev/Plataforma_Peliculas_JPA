@@ -38,4 +38,4 @@ El proyecto sigue una estructura organizada para facilitar el mantenimiento:
 3.  **Ejecución:** Ejecuta la clase `Main.java` para iniciar la aplicación de consola.
 
 ---
-Desarrollado con ❤️ por [Juan Pablo Cely Millán/ juanpablocely en GITHUB]
+Desarrollado con ❤️ por [Juan Pablo Cely Millán/ JuanPCelyDev en GITHUB]
