@@ -39,4 +39,4 @@ build/
 .DS_Store
 
 # Configuración local
-src/main/resources/META-INF/persistence.xml.local
+src/main/resources/META-INF/persistence.xml
